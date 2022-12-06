@@ -1,3 +1,8 @@
+""" 
+Advent of Code - HÍ 2022 - Day 6
+@Author Halldór Jens Vilhjálmsson
+"""
+
 tempInput = open("input.txt", "r").read()
 
 for i in range(len(tempInput)):
