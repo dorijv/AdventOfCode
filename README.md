@@ -1,6 +1,6 @@
 # Advent of Code
 Innan um próftíðastressið getur stundum verið gott að skipta stundum aðeins um fókus og hefur Nörd því ákveðið að bjóða upp á jólaforritunardagatal í gegnum Advent Of Code
-
+ test
 ## Problems
 | Day | Problem | Languages | :link: |
 | :-: | - | :-: | :-: |
